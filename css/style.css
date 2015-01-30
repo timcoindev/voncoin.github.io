@@ -61,13 +61,13 @@ img {
 	margin-right: 20px;
 }
 #header .logo a {
-	background: url(../images/logo1.png) no-repeat center top;
+	background: url(../images/word-vsm.png) no-repeat center top;
 	color: #000;
 	display: block;
 	font: 15px/30px 'Play';
 	height: 20px;
 	width: 76px;
-	padding-top: 68px;
+	padding-top: 86px;
 	text-decoration: none;
 	text-transform: uppercase;
 }
