@@ -43,6 +43,8 @@ img {
 }
 .btn:hover {
 	background-position: 0 0;
+	background-color: #7573E8;
+	color: #7573E8;
 }
 /*------------------------------ HEADER ------------------------------*/
 #header {
