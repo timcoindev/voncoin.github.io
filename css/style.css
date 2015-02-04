@@ -154,6 +154,8 @@ img {
 	margin: 0 auto;
 	padding: 54px 40px;
 }
+
+
 h1 {
 	color: #3e3e3e;
 	font-size: 30px;
@@ -361,6 +363,10 @@ p a {
 }
 .contact p span a{
 	color: #8C0CE8;
+}
+
+#contents .index a{
+display: block;
 }
 /*------------------------------ FOOTER ------------------------------*/
 #footer {
