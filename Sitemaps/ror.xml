@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.voncoin.com/</title>
+  <link>http://www.voncoin.com/</link>
+
+<item>
+     <link>http://www.voncoin.com/</link>
+     <title>Voncoin - A secure and reliable Cryptocurrency</title>
+     <description>Voncoin is utility based triple blockchain cryptocurrency which secures the network and stores currency backed by fiat currency tracing to create a clean and sustainable global economy</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.voncoin.com/index.html</link>
+     <title>Voncoin - A secure and reliable Cryptocurrency</title>
+     <description>Voncoin is utility based triple blockchain cryptocurrency which secures the network and stores currency backed by fiat currency tracing to create a clean and sustainable global economy</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.voncoin.com/about.html</link>
+     <title>Contact </title>
+     <description>Contact </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.voncoin.com/faq.html</link>
+     <title>FAQ - Voncoin</title>
+     <description>FAQ - Voncoin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
