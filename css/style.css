@@ -365,8 +365,20 @@ p a {
 	color: #8C0CE8;
 }
 
+#contents .index {
+border: 2px  dashed #d8d8d8;
+width: 40%;
+padding: 5px 5px 5px 5px;
+}
+#left{
+	float: right;
+}
 #contents .index a{
-display: block;
+	display: block;
+	width: 100%;
+}
+#contents .index a:hover{
+	color: #E87D0C;
 }
 /*------------------------------ FOOTER ------------------------------*/
 #footer {
