@@ -349,7 +349,7 @@ p a {
 .contact {
 	background-color: #f8f8f8;
 	width: 270px;
-	padding: 124px 60px;
+	padding: 12px 60px;
 	text-align: center;
 }
 .contact p span {
@@ -358,6 +358,9 @@ p a {
 	font-size: 30px;
 	line-height: 36px;
 	padding: 18px 0;
+}
+.contact p span a{
+	color: #8C0CE8;
 }
 /*------------------------------ FOOTER ------------------------------*/
 #footer {
